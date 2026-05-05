@@ -1,0 +1,515 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "944514d0-2ad6-4c67-9ae7-1ee011fa4e5c",
+        "text": {
+          "ops": [
+            {
+              "insert": "CRM Dashboard"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "f618a7a4-09f0-4b5b-a2fa-eb656a3102b1",
+            "text": {
+              "ops": [
+                {
+                  "insert": "📊 Pipeline Overview",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "8039fc04-47c0-41ab-aaaa-cc0b43d15884",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Total Pipeline Value: $235,500",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "fb0dee4a-e107-46f3-8e7a-7693308d7bff",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Active Leads: 5",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "daf8bcb8-5300-4d95-9137-2a58ad832289",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Open Deals: 5",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "39f4586f-e580-47d2-a93e-607fe47f9763",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Avg. Lead Score: 74.8 / 100",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "5e7b9f54-054a-4084-8361-51344c0acc56",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Avg. Reply Rate: 30.8%",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "f60bdb79-30a4-4624-8289-b3ed781fd2ed",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🎯 Pipeline by Stage",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "f3532905-9eee-4540-83d7-191e5918dc50",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "New Lead — 1 deal ($8,500)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "4b61d1c4-3575-4872-93c7-b17c18f8e0f4",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Contacted — 1 deal ($12,000)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "092e664a-7de3-4b3e-9fd6-fbdc9b5a3b47",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Qualified — 1 deal ($48,000)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "ea240e17-cbba-4f5f-8cb3-29c59934f01f",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Proposal Sent — 1 deal ($72,000)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "29ea6951-036c-4d05-97df-8c5c4c96f143",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Negotiation — 1 deal ($95,000)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "d99f930b-43b0-423a-95ae-6426ba0c230a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "⚡ Team Activity",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "7e5ba565-4751-4e0c-8f37-44fe7f1ead7e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Alex Rivera — 3 activities this week",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "688e1f02-8b01-4fd2-98a5-e21d9830e36e",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Jordan Lee — 2 activities this week",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "text",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "7d015849-d2d2-46fa-b4c2-bf68aae48246",
+            "text": {
+              "ops": [
+                {
+                  "insert": "🏆 Top Leads by Score",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h1",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": [
+              {
+                "type": "text",
+                "id": "1023fee4-352c-4ba8-8cb5-93233b089938",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "James Thornton (BlueRidge Capital) — Score: 91",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "17e262d5-7c54-4c8b-999f-86c58fcf47e5",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Emily Chen (HealthFirst Clinics) — Score: 88",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "477cd67d-72fb-47f0-92dc-07caab8d3317",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Sarah Mitchell (Nexus Dynamics) — Score: 82",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "number",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": false,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "🔋"
+    }
+  }
+}

@@ -1,0 +1,3205 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "a9395935-569f-4cd5-97f9-c882547191dc",
+        "text": {
+          "ops": [
+            {
+              "insert": "Leads"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "bf88725e-bb33-4ba7-a996-90360ca53ae2",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Janice Provost",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Parigi Restaurant",
+              "@f012": 78,
+              "@f023": "Website issue: All menus are served as PDF links — on mobile, PDFs open poorly and can't be zoomed or scrolled easily, costing the restaurant direct reservations from phone-first diners.",
+              "@f002": "French-American Bistro",
+              "@f003": "parigidallas.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "janice@parigidallas.com",
+              "@f005": "+1 (214) 521-0295",
+              "@f016": "Chef-proprietor of Parigi, a 40-year Oak Lawn bistro. French/Italian/American cuisine. Squarespace site. Daily specials page. Full valet service. Michelin-radar level quality. Confirmed via ZoomInfo pattern j***@parigidallas.com + LinkedIn.",
+              "@f009": "linkedin.com/in/janice-provost-b0b36750"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5629684c-976b-4951-adab-95e21d45560a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Abraham Salum",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Salum Restaurant",
+              "@f012": 75,
+              "@f023": "Website issue: Hero section is a static slideshow of only 3 dated images with no captions — the restaurant has 20 years of accolades but the homepage communicates none of them visually.",
+              "@f002": "Contemporary American Fine Dining",
+              "@f003": "salumrestaurant.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "abraham@salumrestaurant.com",
+              "@f005": "+1 (214) 252-9604",
+              "@f016": "Chef and owner Abraham Salum. Celebrating 20 years. Uptown Dallas. Wix-hosted. OpenTable badge on homepage. New England Culinary Institute grad. Worked in France, Belgium, Mexico.",
+              "@f009": "linkedin.com/in/abraham-salum"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "9f9874ec-c66c-460d-9840-872d817a0be5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carol Nguyễn",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Ngon Vietnamese Kitchen",
+              "@f012": 82,
+              "@f023": "Website issue: The Michelin Bib Gourmand badge appears only in a tiny image buried below the fold — the single biggest credibility asset the restaurant has should be the first thing visitors see.",
+              "@f002": "Vietnamese / Michelin Bib Gourmand",
+              "@f003": "ngonvietkitchen.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "carol@ngonvietkitchen.com",
+              "@f016": "Owner Carol Nguyễn. Michelin Bib Gourmand 2025. Lower Greenville, Dallas. Squarespace site. Nominated for Restaurant of the Year at 2026 CultureMap Tastemaker Awards. Featured by NBC DFW."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ef6cecc5-e494-4085-a2d9-57769b3f6475",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Taylor Samuels",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Las Almas Rotas Mezcalería",
+              "@f012": 70,
+              "@f023": "Website issue: Photo gallery images are served as placeholders (static.spotapps.co) that fail to load — visitors see blank boxes instead of the interior and drinks that would drive reservations.",
+              "@f002": "Mexican Street Food & Mezcal Bar",
+              "@f003": "lasalmasrotas.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "taylor@lasalmasrotas.com",
+              "@f005": "+1 (214) 000-0000",
+              "@f016": "Co-owners Shad Kvetko and Taylor Samuels. Established 2017. Fair Park / Expo Park area. Specializes in mezcal flights and Mexican antojitos. Mobile bar trailer for events. Email pattern confirmed: t***@lasalmasrotas.com (ZoomInfo)."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "024f6526-3556-4a1e-9ffe-084a97030a03",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Jesus Carmona",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Milagro Tacos Cantina",
+              "@f012": 73,
+              "@f023": "Website issue: Homepage hero rotates the same cocktail shot on a loop with no food imagery — after a Diners, Drive-Ins and Dives feature, new visitors expect to see the famous tacos before anything else.",
+              "@f002": "Mexican / Tacos (Fine-casual)",
+              "@f003": "milagrotacocantina.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "jesus@milagrotacocantina.com",
+              "@f016": "Chef-owner Jesus Carmona. Featured on Diners, Drive-Ins and Dives. West Dallas. Recently rebranded from casual taqueria to full-service sit-down. French culinary training applied to Tijuana street tacos. PopMenu-hosted site."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4b0f134b-7d0a-42f8-a946-be4aa73fd7d4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Misti Norris",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Far Out Dallas",
+              "@f012": 76,
+              "@f023": "Website issue: The newsletter signup form sits at the bottom of the homepage below the fold with no incentive to subscribe — a James Beard semifinalist chef's name should drive email capture front-and-center.",
+              "@f002": "Eclectic / Live Music Restaurant",
+              "@f003": "faroutdallas.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "misti@faroutdallas.com",
+              "@f016": "Chef Misti Norris (2026 James Beard Award semifinalist). GM: Allison Green. Fair Park Quonset hut. Eclectic menu, handcrafted cocktails, live music. Squarespace site. Hiring email info@faroutdallas.com confirms domain."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e0a8f3ea-17f3-41fa-8fc1-b3f3bf798bd4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Shannon Galvan",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Celebration Restaurant",
+              "@f012": 72,
+              "@f023": "Website issue: The homepage header rotates seasonal specials as plain text banners with no imagery — a farm-to-table restaurant's biggest selling point is the food itself, yet no dish photos appear above the fold.",
+              "@f002": "Farm-to-Table American",
+              "@f003": "celebrationrestaurant.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "sgalvan@celebrationrestaurant.com",
+              "@f005": "+1 (214) 351-5681",
+              "@f016": "Dallas' original farm-to-table restaurant. Family-owned since 1971. 54 years operating. WordPress site. TripAdvisor award winner. Shannon Galvan is a named contact on the site. Offers lunch, dinner, Mother's Day specials."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4adf3365-d176-4815-9bc5-6c37e6f122d0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "James Runnels",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Two Podners Bar-B-Que & Seafood",
+              "@f012": 64,
+              "@f023": "Website issue: Site's contact widget fails to render ('Widget Didn't Load') — visitors trying to place catering orders or ask questions hit a broken page with no fallback phone number visible.",
+              "@f002": "Texas BBQ & Seafood",
+              "@f003": "twopodnersbbq.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "twopod@flash.net",
+              "@f016": "Owners James Runnels and Fred Conwright. Two Dallas locations (Fair Park area + S Loop 12). Cafeteria-style BBQ. Known for brisket, Pittsburgh hot links, ribs, baked chicken. Email confirmed publicly on their own website."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8005f787-b55f-41b1-b24c-1e182beed5b0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "April Kao",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Sushiya",
+              "@f012": 74,
+              "@f023": "Website issue: No online reservation or waitlist system linked from the homepage — a 50-year local legend with Eater Dallas recognition is losing walk-in conversions by making guests call only.",
+              "@f002": "Japanese / Sushi",
+              "@f003": "sushiyatx.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "april@sushiyatx.com",
+              "@f016": "Co-owner April Kao. Celebrated 50th anniversary in 2024. Eater Dallas 'local legend award' recipient. One of the longest-running sushi restaurants in Dallas. Active ownership, April makes regular sourcing trips to Japan."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1f99fad0-70fa-43c5-87f2-314cef69c6b0",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Tanner Agar",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Apothecary Bar",
+              "@f012": 71,
+              "@f023": "Website issue: No dedicated 'Events' or 'Upcoming' page — Apothecary runs recurring pop-up dining experiences but buries event info in Instagram only, cutting off guests who don't follow on social.",
+              "@f002": "Cocktail Bar / Restaurant",
+              "@f003": "apothecarybar.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "tanner@apothecarybar.com",
+              "@f016": "Owner Tanner Agar. Greenville Avenue. Expanded after adjacent Rye restaurant closed Jan 2026. Features Dining Through the Decades pop-up. Known for progressive hospitality model with staff healthcare/PTO. Active events."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d3464713-8afd-44aa-9234-4b9f48f36e46",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Brandi Wallace",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Sacred Heart Co.",
+              "@f012": 62,
+              "@f023": "Website issue: Product images are compressed and pixelated on mobile — hurts conversion for a fashion brand. No size guide or fit chart visible on product pages.",
+              "@f002": "Apparel & Fashion",
+              "@f003": "sacredheartcollections.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "info@sacredheartcollections.com",
+              "@f016": "HBCU & sorority apparel brand. Active Shopify store. Featured in Dallas Black Chamber directory. Products range $40–$120.",
+              "@f006": "linkedin.com/in/brandiwallace"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c5a1b73c-72a7-4b14-ab94-2a8f4e13c86e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Misa Bacon",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Perfectly Kept Books®",
+              "@f012": 70,
+              "@f023": "Website issue: Blog tab exists but last post appears to be over a year old — signals inactivity to prospective clients browsing for an active expert.",
+              "@f002": "Accounting / Bookkeeping",
+              "@f003": "perfectlykeptbooks.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "hello@perfectlykeptbooks.com",
+              "@f016": "Bookkeeping firm targeting women service providers & creatives. Copyright footer reads 2020–2026. Has a freemium lead magnet (free bookkeeping playbook). Very polished brand."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c9bdeb9c-4089-4d57-a273-83ee0593920f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Steven Goudeau",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Stephen Goudeau",
+              "@f012": 65,
+              "@f023": "Website issue: No clear pricing or starting-price anchor anywhere on the site — luxury shoppers bounce without a price range or 'starting from' indicator.",
+              "@f002": "Luxury Fashion / Bridal Apparel",
+              "@f003": "stephengoudeau.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "sgoudeau@stephengoudeau.com",
+              "@f016": "Luxury bespoke fashion brand with Bridal, Signature, and Hommé collections. Shopify-based. Appointment-only model. Based in Dallas."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d52ec23d-f49d-40c9-8a9c-e0ae2f4230b8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Angel Shaw",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Hearts of Light Counseling & Consulting",
+              "@f012": 68,
+              "@f023": "Website issue: Embedded video on homepage auto-plays but renders as a blank space on mobile — creates a confusing first impression for new visitors.",
+              "@f002": "Mental Health / Therapy",
+              "@f003": "heartsoflightcc.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "angel@heartsoflightcc.com",
+              "@f016": "Virtual therapy private practice serving Texas adults. Specialties: grief from divorce, relational challenges, anxiety, depression. Featured in Forbes, Business Insider, Associated Press.",
+              "@f008": "@heartsoflightcc"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "964b57c1-dbe8-4f27-842c-bd428f89db31",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Bill Nicholson",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Exit Strategy Advisors",
+              "@f012": 74,
+              "@f023": "Website issue: Testimonials page lists client quotes but no company names or industries — misses the trust signal that B2B buyers need when vetting an M&A advisor.",
+              "@f002": "M&A / Business Brokerage",
+              "@f003": "esamergers.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "nicholson@esamergers.com",
+              "@f005": "+1 (888) 394-8238",
+              "@f016": "M&A advisory firm for lower-middle market companies ($5M–$100M revenue). Focus: manufacturing, industrial, business services, software/tech. Dallas-based, serves nationally."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "bf84d4fb-969c-44a4-914b-9a0ff83cf833",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Dominique Maddox",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "EATS Broker",
+              "@f012": 66,
+              "@f023": "Website issue: Homepage carousel has three identical CTAs back-to-back with the same wording — no variation creates decision fatigue and dilutes click-through.",
+              "@f002": "Restaurant Brokerage",
+              "@f003": "eatsbroker.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "sales@eatsbroker.com",
+              "@f016": "Specializes in buying and selling restaurants. Offers free restaurant valuations. Dallas-based expert serving restaurant owners nationwide."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c5e0d647-11a6-4198-a238-32f96a5c2d93",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Bola Aremu",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Powerhouse Consulting",
+              "@f012": 72,
+              "@f023": "Website issue: No case studies or client results quantified anywhere on the site — a consultant's credibility hinges on proof, and the site currently has none.",
+              "@f002": "Sales & Marketing Consulting",
+              "@f003": "powerhouse-consulting.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "bola@powerhouse-consulting.com",
+              "@f016": "B2B revenue alignment consultant — bridges sales and marketing for complex organizations. Squarespace-hosted. Clean brand. Calendly booking embedded."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "1feb0c0a-5420-4f79-bcf1-c389802f5c1f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Alexis (Level 1715)",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Level 1715",
+              "@f012": 75,
+              "@f023": "Website issue: 'Brands We've Worked With' section shows placeholder image slots with no logos loaded — broken social proof on the first scroll of the homepage.",
+              "@f002": "Marketing & PR Agency",
+              "@f003": "level1715.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "alexis@level1715.com",
+              "@f016": "Full-service PR & marketing agency. Works with startups to Fortune 500s. Services include product launches, market research, digital marketing. Dallas-based."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "deb26938-b9cd-4983-99cc-496af5d47608",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Ezekiel Tyson Jr.",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Tyson Law Firm",
+              "@f012": 69,
+              "@f023": "Website issue: Cookie consent popup fires immediately and covers 40% of the viewport on mobile with no 'X' to dismiss — breaks the first-impression experience for injury victims.",
+              "@f002": "Legal / Personal Injury Law",
+              "@f003": "thetysonlawfirm.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "Tyson@thetysonlawfirm.com",
+              "@f005": "+1 (214) 800-5199",
+              "@f016": "Personal injury law firm based in Dallas. Practice areas include slip & fall, auto accidents. WordPress site with GDPR cookie consent banner."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "42975e2a-89f6-43de-a42a-2e2bbb084176",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Tammy Loving",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Gnivol Events LLC",
+              "@f012": 63,
+              "@f023": "Website issue: No portfolio or photo gallery of past events visible — event clients make decisions visually and the site has no before/after work to build confidence.",
+              "@f002": "Event Planning",
+              "@f003": "gnivolevents.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "hello@tammyloving.com",
+              "@f016": "Veteran-owned event planning company. Specializes in weddings, corporate events, private celebrations. Serves DFW Metroplex online and across the US."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2d6642b2-1764-47d9-87ea-2948804da8c8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Tiffani Dickerson",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "The Breast Choice Lactation",
+              "@f012": 67,
+              "@f023": "Website issue: Booking button ('Book a Consultation') opens a third-party intake platform in the same tab, losing the site session — should open in a new tab or be embedded.",
+              "@f002": "Healthcare / Lactation Services",
+              "@f003": "thebreastchoicels.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "tiffanid@thebreastchoicels.com",
+              "@f016": "IBCLC lactation consultancy serving DeSoto, Southern Dallas, Tarrant & Ellis Counties. Wix-hosted. Offers prenatal classes and in-home concierge support."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "eafc4050-2cca-435b-9ab2-003cc7f2d53a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Kenny Sensuel",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Simple Safe Insurance Agency",
+              "@f012": 64,
+              "@f023": "Website issue: The 'Get Free Quote Now' CTA button opens a generic form with no carrier logos or trust signals visible — the form itself doesn't reinforce the BBB A+ rating shown on the homepage.",
+              "@f002": "Insurance",
+              "@f003": "simplesafeinsuranceagency.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "Admin@simplesafeinsuranceagency.com",
+              "@f005": "+1 (516) 260-7240",
+              "@f016": "Independent insurance agency. 150+ carriers. BBB A+ rated. 1,000+ customers. Offers 60-second online quotes. Dallas-based."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2b988add-3b33-467e-b93b-aa693510ecb4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Sheena Thomas",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Lengo Strategic Partners, LLC",
+              "@f012": 66,
+              "@f023": "Website issue: Services section uses vague acronyms (XBE, MWBE) with no plain-language explanation — potential clients who don't know the jargon bounce immediately.",
+              "@f002": "Supplier Diversity Consulting",
+              "@f003": "lengofocus.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "connect@lengofocus.com",
+              "@f016": "Helps corporations design supplier diversity programs and assists MWBE owners with XBE certifications. Wix-hosted. Dallas, TX."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4a43cbf9-99b0-4364-9205-9b1bb66127e4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Rickey Scott",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "E Quality Corporation",
+              "@f012": 60,
+              "@f023": "Website issue: Site design appears to be from the early 2010s — no mobile responsiveness, table-based layout, and images are not retina/HiDPI optimized.",
+              "@f002": "IT Solutions / Software Development",
+              "@f003": "e-qacorp.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "rickey_scott@e-qacorp.com",
+              "@f016": "Minority-owned IT solutions firm. Self-assessed SEI CMM Level II. Serves diverse industry sectors. Carrollton/Dallas area."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c7f42f82-5a51-4a5c-95f3-4c0ca69d7f6a",
+            "text": {
+              "ops": [
+                {
+                  "insert": "David Bolisomi",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Bookit Sports Inc.",
+              "@f012": 71,
+              "@f023": "Website issue: No 'About' page or founder story anywhere — for a fintech/betting platform, users need to know who's behind it before trusting it with money-related decisions.",
+              "@f002": "Sports Betting / Media Tech",
+              "@f003": "bookitsports.app",
+              "@f014": "Initiate first outreach",
+              "@f004": "david@bookitsports.app",
+              "@f016": "Sports betting entertainment platform with live scores, odds, and expert analysis. Next.js app. Carrollton/Dallas area. Active real-time data feeds."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "064b2972-2eb2-4aa7-b2a6-c672364691bc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Guinea Bennette-Price",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Soul Rep Theatre Company",
+              "@f012": 58,
+              "@f023": "Website issue: Ticket links open a third-party page (our.show) with no consistent branding — audiences lose confidence when checkout looks nothing like the organization's site.",
+              "@f002": "Arts & Theatre",
+              "@f003": "soulrep.org",
+              "@f014": "Initiate first outreach",
+              "@f004": "soulreptheatre@gmail.com",
+              "@f016": "30-year-old Black theatre company in Dallas. Biennial Ted Shine New Play Festival. Squarespace site. Active with June 2026 festival listings. South Dallas Cultural Center."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "166397fc-a01f-4f8f-a880-46ca9088058e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "LaShawn Robertson",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "LRTC Training Center",
+              "@f012": 61,
+              "@f023": "Website issue: Homepage leads with a donation form rather than communicating their mission — new visitors have no immediate context for what LRTC does before being asked to give.",
+              "@f002": "Workforce Development / Job Training",
+              "@f003": "lrtctraining.org",
+              "@f014": "Initiate first outreach",
+              "@f004": "lashawn.robertson@lrtctraining.org",
+              "@f005": "+1 (214) 000-0000",
+              "@f016": "Nonprofit providing job training for low-to-moderate income individuals. Based at 1408 N. Riverfront Blvd, Dallas TX 75207. Wix-hosted."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "0944929d-4a56-4558-94e2-802e6b3db93e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Haresh Boghara",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Epic Medical Research, LLC",
+              "@f012": 63,
+              "@f023": "Website issue: No active clinical trials or recruitment listings visible on the site — for a research site, patients and sponsors look for open studies and find nothing.",
+              "@f002": "Healthcare / Clinical Research",
+              "@f003": "epicmedresearch.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "shonbrown@epicmedresearch.com",
+              "@f005": "+1 (214) 317-0429",
+              "@f016": "Clinical research site in DeSoto, TX. Founded by Haresh Boghara, MD MBA. Dallas Black Chamber member. Conducts clinical trials."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e6d6e3d0-1e4b-4cf1-9199-4a11cd7eef26",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Rakesh Roy",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "247 Tech Team",
+              "@f012": 64,
+              "@f023": "Website issue: No customer reviews or trust badges visible above the fold — IT support businesses live and die by social proof and the homepage shows none.",
+              "@f002": "IT Support / Computer Services",
+              "@f003": "247techteam.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "support@247techteam.com",
+              "@f005": "+1 (888) 275-2336",
+              "@f016": "Online computer support company. BBB listed with owner Rakesh Roy. Serves customers nationally. Dallas, TX registered. Has published refund policy."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7a76c9f4-0328-4a45-b5e2-efc651a4daf7",
+            "text": {
+              "ops": [
+                {
+                  "insert": "John McLellan",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-other"
+              },
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f001": "Search 2 Sales LLC",
+              "@f012": 67,
+              "@f023": "Website issue: The company sells SEO services but their own domain has no visible blog or content marketing — a glaring credibility gap for a search marketing firm.",
+              "@f002": "Digital Marketing / SEO",
+              "@f003": "search2sales.com",
+              "@f014": "Initiate first outreach",
+              "@f004": "john@search2sales.com",
+              "@f005": "+1 (214) 692-0526",
+              "@f016": "Search engine advertising and marketing agency for small businesses. Dallas, TX. BBB listed with owner John McLellan. Focused on PPC and SEO lead generation."
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "119b6297-a9ec-4e69-9980-0b7547a48a25",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Sarah Mitchell",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-li"
+              },
+              "@f021": 7,
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-qual"
+              },
+              "@f022": 0.32,
+              "@f001": "Nexus Dynamics",
+              "@f012": 82,
+              "@f023": "Very responsive, interested in enterprise plan",
+              "@f002": "SaaS / B2B Software",
+              "@f013": "Alex Rivera",
+              "@f003": "nexusdynamics.io",
+              "@f014": "Send proposal deck",
+              "@f004": "sarah@nexusdynamics.io",
+              "@f005": "+1 (415) 555-0182",
+              "@f006": "linkedin.com/in/sarahmitchell",
+              "@f018": "Still thinking about that bottleneck?",
+              "@f019": 8
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "a06346c8-c491-4837-9128-93506bdf7ea6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "James Thornton",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-ref"
+              },
+              "@f021": 9,
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-prop"
+              },
+              "@f022": 0.45,
+              "@f001": "BlueRidge Capital",
+              "@f012": 91,
+              "@f023": "Referral from Mike Chen. Decision maker confirmed.",
+              "@f002": "Finance / Investment",
+              "@f013": "Alex Rivera",
+              "@f003": "blueridgecap.com",
+              "@f014": "Follow up on proposal",
+              "@f004": "j.thornton@blueridgecap.com",
+              "@f005": "+1 (212) 555-0374",
+              "@f006": "linkedin.com/in/jamesthornton",
+              "@f018": "Quick question about your Q3 goals",
+              "@f019": 9,
+              "@f009": "@jthornton_fin"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "ecdd6701-f0be-41bf-a381-4294625fcd80",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Priya Kapoor",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-web"
+              },
+              "@f021": 6,
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-contact"
+              },
+              "@f022": 0.18,
+              "@f001": "Greenleaf Retail Group",
+              "@f012": 65,
+              "@f023": "Inbound from pricing page",
+              "@f002": "Retail / eCommerce",
+              "@f013": "Jordan Lee",
+              "@f003": "greenleafretail.com",
+              "@f014": "Schedule discovery call",
+              "@f004": "priya.k@greenleafretail.com",
+              "@f008": "@greenleaf_retail",
+              "@f019": 7
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "e9083285-aee4-431f-997d-8ffe97d278b5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Carlos Mendez",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-cold"
+              },
+              "@f021": 5,
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-new"
+              },
+              "@f022": 0.08,
+              "@f001": "Apex Manufacturing",
+              "@f012": 48,
+              "@f023": "Cold outreach — no reply yet",
+              "@f002": "Manufacturing / Industrial",
+              "@f013": "Jordan Lee",
+              "@f003": "apexmfg.co",
+              "@f014": "Research company before outreach",
+              "@f004": "cmendez@apexmfg.co",
+              "@f005": "+1 (713) 555-0819",
+              "@f006": "linkedin.com/in/carlosmendez",
+              "@f019": 5,
+              "@f009": "@carlos_apexmfg"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "2f9a3df5-4993-45a1-9756-17b52ca08996",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Emily Chen",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@f010": {
+                "type": "Select",
+                "optionId": "src-event"
+              },
+              "@f021": 8,
+              "@f011": {
+                "type": "Select",
+                "optionId": "stg-neg"
+              },
+              "@f022": 0.51,
+              "@f001": "HealthFirst Clinics",
+              "@f012": 88,
+              "@f023": "Met at HealthTech Summit. Very engaged.",
+              "@f002": "Healthcare / MedTech",
+              "@f013": "Alex Rivera",
+              "@f003": "healthfirstclinics.com",
+              "@f014": "Finalize contract terms",
+              "@f004": "echen@healthfirstclinics.com",
+              "@f005": "+1 (650) 555-0261",
+              "@f006": "linkedin.com/in/emilychenmd",
+              "@f007": "facebook.com/healthfirstclinics",
+              "@f019": 9
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "da8b6d62-1298-46e1-87bb-564606540b55": {
+            "id": "da8b6d62-1298-46e1-87bb-564606540b55",
+            "fieldPath": "/attributes/@f001",
+            "rank": "z"
+          },
+          "d81ac746-4043-4f4b-a3cb-6e3e9eb29710": {
+            "id": "d81ac746-4043-4f4b-a3cb-6e3e9eb29710",
+            "fieldPath": "/attributes/@f002",
+            "rank": "zV"
+          },
+          "f6303872-aa6e-42e9-8538-aee15e92c5e4": {
+            "id": "f6303872-aa6e-42e9-8538-aee15e92c5e4",
+            "fieldPath": "/attributes/@f003",
+            "rank": "zk"
+          },
+          "3b7a41d8-032f-484e-b8c2-cde2a1d4f8b6": {
+            "id": "3b7a41d8-032f-484e-b8c2-cde2a1d4f8b6",
+            "fieldPath": "/attributes/@f004",
+            "rank": "zs"
+          },
+          "0468409d-9ccd-4206-b016-badfa079a14f": {
+            "id": "0468409d-9ccd-4206-b016-badfa079a14f",
+            "fieldPath": "/attributes/@f005",
+            "rank": "zw"
+          },
+          "38ee2d92-4887-4981-a10d-150090760140": {
+            "id": "38ee2d92-4887-4981-a10d-150090760140",
+            "fieldPath": "/attributes/@f006",
+            "rank": "zy"
+          },
+          "91ae430d-22c6-48ab-9047-5007f23c7ac1": {
+            "id": "91ae430d-22c6-48ab-9047-5007f23c7ac1",
+            "fieldPath": "/attributes/@f007",
+            "rank": "zz"
+          },
+          "4f02f1e1-439e-4251-95fa-a0fc16a7e3c4": {
+            "id": "4f02f1e1-439e-4251-95fa-a0fc16a7e3c4",
+            "fieldPath": "/attributes/@f008",
+            "rank": "zzV"
+          },
+          "22aab07d-ee8f-4326-9361-0d868fc41482": {
+            "id": "22aab07d-ee8f-4326-9361-0d868fc41482",
+            "fieldPath": "/attributes/@f009",
+            "rank": "zzk"
+          },
+          "8f0e6a17-e07e-4099-9c56-48ad15690eb8": {
+            "id": "8f0e6a17-e07e-4099-9c56-48ad15690eb8",
+            "fieldPath": "/attributes/@f010",
+            "rank": "zzs"
+          },
+          "4e418155-7908-4937-8e63-a14e6afbb8a0": {
+            "id": "4e418155-7908-4937-8e63-a14e6afbb8a0",
+            "fieldPath": "/attributes/@f011",
+            "rank": "zzw"
+          },
+          "8a4c9b7d-66e9-4209-90bb-c2118943a206": {
+            "id": "8a4c9b7d-66e9-4209-90bb-c2118943a206",
+            "fieldPath": "/attributes/@f012",
+            "rank": "zzy"
+          },
+          "2adf1906-0117-4a32-b68a-83bc558428c4": {
+            "id": "2adf1906-0117-4a32-b68a-83bc558428c4",
+            "fieldPath": "/attributes/@f013",
+            "rank": "zzz"
+          },
+          "44ba49ef-90d5-43b6-8afe-22d5a8226606": {
+            "id": "44ba49ef-90d5-43b6-8afe-22d5a8226606",
+            "fieldPath": "/attributes/@f014",
+            "rank": "zzzV"
+          },
+          "b029aa29-6398-4745-9346-4a37b35f1b5e": {
+            "id": "b029aa29-6398-4745-9346-4a37b35f1b5e",
+            "fieldPath": "/attributes/@f015",
+            "rank": "zzzk"
+          },
+          "fa8078c0-b068-4558-a727-6da1a0c68be7": {
+            "id": "fa8078c0-b068-4558-a727-6da1a0c68be7",
+            "fieldPath": "/attributes/@f016",
+            "rank": "zzzs"
+          },
+          "ef9083d1-e40b-49a3-8b83-8342ec8d9b94": {
+            "id": "ef9083d1-e40b-49a3-8b83-8342ec8d9b94",
+            "fieldPath": "/attributes/@f017",
+            "rank": "zzzw"
+          },
+          "09935d05-691c-43a6-9a20-ace307d3c552": {
+            "id": "09935d05-691c-43a6-9a20-ace307d3c552",
+            "fieldPath": "/attributes/@f018",
+            "rank": "zzzy"
+          },
+          "f873eaed-c50f-4d51-81c1-c2ad68c6259d": {
+            "id": "f873eaed-c50f-4d51-81c1-c2ad68c6259d",
+            "fieldPath": "/attributes/@f019",
+            "rank": "zzzz"
+          },
+          "220a69f1-2e00-4083-8bb6-c9e7e2ac201a": {
+            "id": "220a69f1-2e00-4083-8bb6-c9e7e2ac201a",
+            "fieldPath": "/attributes/@f020",
+            "rank": "zzzzV"
+          },
+          "9d1423cd-9922-4c22-b5b5-2567abe2fc90": {
+            "id": "9d1423cd-9922-4c22-b5b5-2567abe2fc90",
+            "fieldPath": "/attributes/@f021",
+            "rank": "zzzzk"
+          },
+          "1bc1f989-43eb-460b-9bf8-033ebc81448f": {
+            "id": "1bc1f989-43eb-460b-9bf8-033ebc81448f",
+            "fieldPath": "/attributes/@f022",
+            "rank": "zzzzs"
+          },
+          "5a0ab1a1-68ee-4d5c-920d-efde8c097beb": {
+            "id": "5a0ab1a1-68ee-4d5c-920d-efde8c097beb",
+            "fieldPath": "/attributes/@f023",
+            "rank": "zzzzw"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "8445da37-2c36-4342-9ed2-7b8ff8d7057c": {
+            "id": "8445da37-2c36-4342-9ed2-7b8ff8d7057c",
+            "fieldPath": "/attributes/@f001",
+            "rank": "z"
+          },
+          "48e55c46-7f6b-4475-b74e-12c89836c0af": {
+            "id": "48e55c46-7f6b-4475-b74e-12c89836c0af",
+            "fieldPath": "/attributes/@f002",
+            "rank": "zV"
+          },
+          "1eb04b85-582d-4b63-bc38-2ddcd8a169ab": {
+            "id": "1eb04b85-582d-4b63-bc38-2ddcd8a169ab",
+            "fieldPath": "/attributes/@f003",
+            "rank": "zk"
+          },
+          "2c1ebc9f-d6c0-4879-a443-03540787746d": {
+            "id": "2c1ebc9f-d6c0-4879-a443-03540787746d",
+            "fieldPath": "/attributes/@f004",
+            "rank": "zs"
+          },
+          "7d9515a5-cdc9-48ae-b083-10225306fa49": {
+            "id": "7d9515a5-cdc9-48ae-b083-10225306fa49",
+            "fieldPath": "/attributes/@f005",
+            "rank": "zw"
+          },
+          "7a7594f6-0d5f-4525-a132-7985246cb8b7": {
+            "id": "7a7594f6-0d5f-4525-a132-7985246cb8b7",
+            "fieldPath": "/attributes/@f006",
+            "rank": "zy"
+          },
+          "5196f7fe-e88f-4492-82f4-330766f7fa3b": {
+            "id": "5196f7fe-e88f-4492-82f4-330766f7fa3b",
+            "fieldPath": "/attributes/@f007",
+            "rank": "zz"
+          },
+          "d38abe9b-b355-4388-8d6b-7dfa94b5f974": {
+            "id": "d38abe9b-b355-4388-8d6b-7dfa94b5f974",
+            "fieldPath": "/attributes/@f008",
+            "rank": "zzV"
+          },
+          "f267a1af-0f9b-4a30-9ca2-c5d2b3709591": {
+            "id": "f267a1af-0f9b-4a30-9ca2-c5d2b3709591",
+            "fieldPath": "/attributes/@f009",
+            "rank": "zzk"
+          },
+          "4139295e-63e3-43af-a5b2-f84c28fc4c20": {
+            "id": "4139295e-63e3-43af-a5b2-f84c28fc4c20",
+            "fieldPath": "/attributes/@f010",
+            "rank": "zzs"
+          },
+          "76a7a31d-3b73-4c34-a1cb-3d0fb8bd935e": {
+            "id": "76a7a31d-3b73-4c34-a1cb-3d0fb8bd935e",
+            "fieldPath": "/attributes/@f011",
+            "rank": "zzw"
+          },
+          "fe1b03df-5eaf-401b-a2b5-ab87165afa7f": {
+            "id": "fe1b03df-5eaf-401b-a2b5-ab87165afa7f",
+            "fieldPath": "/attributes/@f012",
+            "rank": "zzy"
+          },
+          "334a64a3-23cf-4dbb-bf79-d612e8503f1a": {
+            "id": "334a64a3-23cf-4dbb-bf79-d612e8503f1a",
+            "fieldPath": "/attributes/@f013",
+            "rank": "zzz"
+          },
+          "298c0b1c-d1b4-4479-b277-90e1858109c5": {
+            "id": "298c0b1c-d1b4-4479-b277-90e1858109c5",
+            "fieldPath": "/attributes/@f014",
+            "rank": "zzzV"
+          },
+          "7872cf9e-98af-43bc-a03a-d5da17515bf6": {
+            "id": "7872cf9e-98af-43bc-a03a-d5da17515bf6",
+            "fieldPath": "/attributes/@f015",
+            "rank": "zzzk"
+          },
+          "6278e730-5d2c-4eb1-b89b-9a5a33cde7f6": {
+            "id": "6278e730-5d2c-4eb1-b89b-9a5a33cde7f6",
+            "fieldPath": "/attributes/@f016",
+            "rank": "zzzs"
+          },
+          "03fe43da-7ec4-4ab8-be10-ae2ef41e4942": {
+            "id": "03fe43da-7ec4-4ab8-be10-ae2ef41e4942",
+            "fieldPath": "/attributes/@f017",
+            "rank": "zzzw"
+          },
+          "136fde5f-05f0-4202-8e45-56bd83c2ded4": {
+            "id": "136fde5f-05f0-4202-8e45-56bd83c2ded4",
+            "fieldPath": "/attributes/@f018",
+            "rank": "zzzy"
+          },
+          "92f3d462-0389-46b6-8f1f-29ed6eeb013e": {
+            "id": "92f3d462-0389-46b6-8f1f-29ed6eeb013e",
+            "fieldPath": "/attributes/@f019",
+            "rank": "zzzz"
+          },
+          "bbb3e3e7-8e16-4285-8a26-1129dae95b66": {
+            "id": "bbb3e3e7-8e16-4285-8a26-1129dae95b66",
+            "fieldPath": "/attributes/@f020",
+            "rank": "zzzzV"
+          },
+          "b4535003-c32b-41fb-b845-c296b778e12b": {
+            "id": "b4535003-c32b-41fb-b845-c296b778e12b",
+            "fieldPath": "/attributes/@f021",
+            "rank": "zzzzk"
+          },
+          "678d31f0-c2e1-418d-8a12-a6aec4193a1b": {
+            "id": "678d31f0-c2e1-418d-8a12-a6aec4193a1b",
+            "fieldPath": "/attributes/@f022",
+            "rank": "zzzzs"
+          },
+          "83abc6b0-8ca9-4842-ae0c-c4918aaa275a": {
+            "id": "83abc6b0-8ca9-4842-ae0c-c4918aaa275a",
+            "fieldPath": "/attributes/@f023",
+            "rank": "zzzzw"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "1e2dbac9-fcb9-4d42-a791-a19fa499a190": {
+            "id": "1e2dbac9-fcb9-4d42-a791-a19fa499a190",
+            "fieldPath": "/attributes/@f001",
+            "rank": "z"
+          },
+          "c8503c02-92f2-48d7-ab74-5615acbfc8a5": {
+            "id": "c8503c02-92f2-48d7-ab74-5615acbfc8a5",
+            "fieldPath": "/attributes/@f002",
+            "rank": "zV"
+          },
+          "9af19845-6d21-4dd8-b519-04bcea60e51e": {
+            "id": "9af19845-6d21-4dd8-b519-04bcea60e51e",
+            "fieldPath": "/attributes/@f003",
+            "rank": "zk"
+          },
+          "905364c1-bf65-4df5-b02e-2db4e6b714d6": {
+            "id": "905364c1-bf65-4df5-b02e-2db4e6b714d6",
+            "fieldPath": "/attributes/@f004",
+            "rank": "zs"
+          },
+          "6d802f3f-655f-4638-bdb7-df6b95b8eed7": {
+            "id": "6d802f3f-655f-4638-bdb7-df6b95b8eed7",
+            "fieldPath": "/attributes/@f005",
+            "rank": "zw"
+          },
+          "d57eefc2-ada0-4dd7-9056-6b18b29cd085": {
+            "id": "d57eefc2-ada0-4dd7-9056-6b18b29cd085",
+            "fieldPath": "/attributes/@f006",
+            "rank": "zy"
+          },
+          "b8cdbdc2-2fd1-434d-9ba5-4d37b93f6f96": {
+            "id": "b8cdbdc2-2fd1-434d-9ba5-4d37b93f6f96",
+            "fieldPath": "/attributes/@f007",
+            "rank": "zz"
+          },
+          "55717bd1-bb80-4ef6-b631-8f18341f457a": {
+            "id": "55717bd1-bb80-4ef6-b631-8f18341f457a",
+            "fieldPath": "/attributes/@f008",
+            "rank": "zzV"
+          },
+          "d0f0eb0c-6242-4644-9317-1dc5c2661813": {
+            "id": "d0f0eb0c-6242-4644-9317-1dc5c2661813",
+            "fieldPath": "/attributes/@f009",
+            "rank": "zzk"
+          },
+          "efb61f1f-108d-40ca-866b-5c48b84b24d8": {
+            "id": "efb61f1f-108d-40ca-866b-5c48b84b24d8",
+            "fieldPath": "/attributes/@f010",
+            "rank": "zzs"
+          },
+          "a3e13535-ab01-4eff-9404-4acf61832e6d": {
+            "id": "a3e13535-ab01-4eff-9404-4acf61832e6d",
+            "fieldPath": "/attributes/@f011",
+            "rank": "zzw"
+          },
+          "f4cda7a7-cfff-4f0a-b9ae-56c1fbca0223": {
+            "id": "f4cda7a7-cfff-4f0a-b9ae-56c1fbca0223",
+            "fieldPath": "/attributes/@f012",
+            "rank": "zzy"
+          },
+          "fa005f47-ecfa-4715-93c7-5be8131d07cf": {
+            "id": "fa005f47-ecfa-4715-93c7-5be8131d07cf",
+            "fieldPath": "/attributes/@f013",
+            "rank": "zzz"
+          },
+          "d24723a8-7066-4d9c-87fb-1afbaee2bcb9": {
+            "id": "d24723a8-7066-4d9c-87fb-1afbaee2bcb9",
+            "fieldPath": "/attributes/@f014",
+            "rank": "zzzV"
+          },
+          "1cf52cc9-ccf5-4783-bf44-f62a705756f8": {
+            "id": "1cf52cc9-ccf5-4783-bf44-f62a705756f8",
+            "fieldPath": "/attributes/@f015",
+            "rank": "zzzk"
+          },
+          "8a379b22-ad17-4e36-91f3-1d31ded1f03c": {
+            "id": "8a379b22-ad17-4e36-91f3-1d31ded1f03c",
+            "fieldPath": "/attributes/@f016",
+            "rank": "zzzs"
+          },
+          "b53c1555-6ce1-4574-8d2d-b8e0518d0f38": {
+            "id": "b53c1555-6ce1-4574-8d2d-b8e0518d0f38",
+            "fieldPath": "/attributes/@f017",
+            "rank": "zzzw"
+          },
+          "b9dac4be-69a6-4c87-9f1c-c78256e9b928": {
+            "id": "b9dac4be-69a6-4c87-9f1c-c78256e9b928",
+            "fieldPath": "/attributes/@f018",
+            "rank": "zzzy"
+          },
+          "33fa84b0-b02a-487d-8e54-fd88d6677710": {
+            "id": "33fa84b0-b02a-487d-8e54-fd88d6677710",
+            "fieldPath": "/attributes/@f019",
+            "rank": "zzzz"
+          },
+          "b3d74388-27f4-4db8-8ac6-6c500ee6d1cc": {
+            "id": "b3d74388-27f4-4db8-8ac6-6c500ee6d1cc",
+            "fieldPath": "/attributes/@f020",
+            "rank": "zzzzV"
+          },
+          "d2a3b844-d423-4350-8e1d-d53905989d78": {
+            "id": "d2a3b844-d423-4350-8e1d-d53905989d78",
+            "fieldPath": "/attributes/@f021",
+            "rank": "zzzzk"
+          },
+          "79f9e727-9651-4d5b-a6f6-d78f56c4b28f": {
+            "id": "79f9e727-9651-4d5b-a6f6-d78f56c4b28f",
+            "fieldPath": "/attributes/@f022",
+            "rank": "zzzzs"
+          },
+          "e1a60270-de9e-40cf-bf85-59f3566d7964": {
+            "id": "e1a60270-de9e-40cf-bf85-59f3566d7964",
+            "fieldPath": "/attributes/@f023",
+            "rank": "zzzzw"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "5758924c-e2d1-4da7-b0e9-fa4692fd4020": {
+            "id": "5758924c-e2d1-4da7-b0e9-fa4692fd4020",
+            "fieldPath": "/attributes/@f001",
+            "rank": "z"
+          },
+          "b0752684-db0a-4d27-badb-d406ec26f28d": {
+            "id": "b0752684-db0a-4d27-badb-d406ec26f28d",
+            "fieldPath": "/attributes/@f002",
+            "rank": "zV"
+          },
+          "4862eae8-bad4-4195-b0ba-91594a930974": {
+            "id": "4862eae8-bad4-4195-b0ba-91594a930974",
+            "fieldPath": "/attributes/@f003",
+            "rank": "zk"
+          },
+          "ea47183a-dcec-4732-9e2d-ead0a1d5fb7d": {
+            "id": "ea47183a-dcec-4732-9e2d-ead0a1d5fb7d",
+            "fieldPath": "/attributes/@f004",
+            "rank": "zs"
+          },
+          "99f3c2f5-308d-44db-96d3-0857551e7039": {
+            "id": "99f3c2f5-308d-44db-96d3-0857551e7039",
+            "fieldPath": "/attributes/@f005",
+            "rank": "zw"
+          },
+          "477a1e3e-025a-4201-8f23-18286f03bbea": {
+            "id": "477a1e3e-025a-4201-8f23-18286f03bbea",
+            "fieldPath": "/attributes/@f006",
+            "rank": "zy"
+          },
+          "f49185d6-70d6-4344-98bb-707fba4b2f3e": {
+            "id": "f49185d6-70d6-4344-98bb-707fba4b2f3e",
+            "fieldPath": "/attributes/@f007",
+            "rank": "zz"
+          },
+          "8c0bd128-a961-4637-993c-38d9517e4fc1": {
+            "id": "8c0bd128-a961-4637-993c-38d9517e4fc1",
+            "fieldPath": "/attributes/@f008",
+            "rank": "zzV"
+          },
+          "75d7288a-d572-4f68-82d9-89ea810e4c5a": {
+            "id": "75d7288a-d572-4f68-82d9-89ea810e4c5a",
+            "fieldPath": "/attributes/@f009",
+            "rank": "zzk"
+          },
+          "6a2563d2-b22c-4260-9d4b-d410be5c5615": {
+            "id": "6a2563d2-b22c-4260-9d4b-d410be5c5615",
+            "fieldPath": "/attributes/@f010",
+            "rank": "zzs"
+          },
+          "d2c453fc-1fbd-46fe-ac17-c1388a8ca7fe": {
+            "id": "d2c453fc-1fbd-46fe-ac17-c1388a8ca7fe",
+            "fieldPath": "/attributes/@f011",
+            "rank": "zzw"
+          },
+          "b762196f-ac04-4058-9a32-ccf4227568cf": {
+            "id": "b762196f-ac04-4058-9a32-ccf4227568cf",
+            "fieldPath": "/attributes/@f012",
+            "rank": "zzy"
+          },
+          "6f7f5b8a-53d2-452a-8eeb-80211ae9e164": {
+            "id": "6f7f5b8a-53d2-452a-8eeb-80211ae9e164",
+            "fieldPath": "/attributes/@f013",
+            "rank": "zzz"
+          },
+          "220df818-c57f-47a7-966f-898c0d2dd4c1": {
+            "id": "220df818-c57f-47a7-966f-898c0d2dd4c1",
+            "fieldPath": "/attributes/@f014",
+            "rank": "zzzV"
+          },
+          "9552653a-06da-42ee-8db0-4bbdf28361ce": {
+            "id": "9552653a-06da-42ee-8db0-4bbdf28361ce",
+            "fieldPath": "/attributes/@f015",
+            "rank": "zzzk"
+          },
+          "3e4c2cb8-519b-43ea-9a06-fc9a08e9eb27": {
+            "id": "3e4c2cb8-519b-43ea-9a06-fc9a08e9eb27",
+            "fieldPath": "/attributes/@f016",
+            "rank": "zzzs"
+          },
+          "252921e3-67bd-4cb1-821e-fd51ba4f3f51": {
+            "id": "252921e3-67bd-4cb1-821e-fd51ba4f3f51",
+            "fieldPath": "/attributes/@f017",
+            "rank": "zzzw"
+          },
+          "f53c1e74-b891-4414-99b6-786d83ae3604": {
+            "id": "f53c1e74-b891-4414-99b6-786d83ae3604",
+            "fieldPath": "/attributes/@f018",
+            "rank": "zzzy"
+          },
+          "fb50c53d-2327-4021-bfb0-6084e709cc95": {
+            "id": "fb50c53d-2327-4021-bfb0-6084e709cc95",
+            "fieldPath": "/attributes/@f019",
+            "rank": "zzzz"
+          },
+          "35decc1d-6c80-49bb-ad09-f2f4b5c577d8": {
+            "id": "35decc1d-6c80-49bb-ad09-f2f4b5c577d8",
+            "fieldPath": "/attributes/@f020",
+            "rank": "zzzzV"
+          },
+          "34ba4f4e-298c-4856-af49-c08deb10a8ff": {
+            "id": "34ba4f4e-298c-4856-af49-c08deb10a8ff",
+            "fieldPath": "/attributes/@f021",
+            "rank": "zzzzk"
+          },
+          "0250f9de-ba43-421d-9224-0c44153fe142": {
+            "id": "0250f9de-ba43-421d-9224-0c44153fe142",
+            "fieldPath": "/attributes/@f022",
+            "rank": "zzzzs"
+          },
+          "ebdf1739-caa8-4674-ac04-2a1ebef8e304": {
+            "id": "ebdf1739-caa8-4674-ac04-2a1ebef8e304",
+            "fieldPath": "/attributes/@f023",
+            "rank": "zzzzw"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "0b39e165-1922-480e-8fec-09a8c29af095": {
+            "id": "0b39e165-1922-480e-8fec-09a8c29af095",
+            "fieldPath": "/attributes/@f001",
+            "rank": "z"
+          },
+          "12703e5e-1c6a-404f-a8e1-090b8c9fbb35": {
+            "id": "12703e5e-1c6a-404f-a8e1-090b8c9fbb35",
+            "fieldPath": "/attributes/@f002",
+            "rank": "zV"
+          },
+          "8905f9bf-4e78-478a-820e-326c00ffaf70": {
+            "id": "8905f9bf-4e78-478a-820e-326c00ffaf70",
+            "fieldPath": "/attributes/@f003",
+            "rank": "zk"
+          },
+          "446f8de0-94a3-43cb-9469-022c2609efb9": {
+            "id": "446f8de0-94a3-43cb-9469-022c2609efb9",
+            "fieldPath": "/attributes/@f004",
+            "rank": "zs"
+          },
+          "fabf4f3a-e56b-4a59-bb43-162f805d6cb3": {
+            "id": "fabf4f3a-e56b-4a59-bb43-162f805d6cb3",
+            "fieldPath": "/attributes/@f005",
+            "rank": "zw"
+          },
+          "7fda8236-f9c8-4af4-bfce-5c74c119909a": {
+            "id": "7fda8236-f9c8-4af4-bfce-5c74c119909a",
+            "fieldPath": "/attributes/@f006",
+            "rank": "zy"
+          },
+          "d0505701-ce1b-431a-9c54-08d3dc5fe979": {
+            "id": "d0505701-ce1b-431a-9c54-08d3dc5fe979",
+            "fieldPath": "/attributes/@f007",
+            "rank": "zz"
+          },
+          "058dff4d-b8a1-4101-b23e-4f8ecdce2647": {
+            "id": "058dff4d-b8a1-4101-b23e-4f8ecdce2647",
+            "fieldPath": "/attributes/@f008",
+            "rank": "zzV"
+          },
+          "21123d70-e437-4f42-b7c7-13ceef685b0f": {
+            "id": "21123d70-e437-4f42-b7c7-13ceef685b0f",
+            "fieldPath": "/attributes/@f009",
+            "rank": "zzk"
+          },
+          "b5eafdd7-b329-44b6-94de-5f2fd11629f0": {
+            "id": "b5eafdd7-b329-44b6-94de-5f2fd11629f0",
+            "fieldPath": "/attributes/@f010",
+            "rank": "zzs"
+          },
+          "de3f340e-b00d-486e-9896-c28dd6e298f8": {
+            "id": "de3f340e-b00d-486e-9896-c28dd6e298f8",
+            "fieldPath": "/attributes/@f011",
+            "rank": "zzw"
+          },
+          "fa99bcb8-2e38-4f43-8ce0-bafbb132976c": {
+            "id": "fa99bcb8-2e38-4f43-8ce0-bafbb132976c",
+            "fieldPath": "/attributes/@f012",
+            "rank": "zzy"
+          },
+          "e89a0746-75f4-4d9b-b71b-795ed22e9815": {
+            "id": "e89a0746-75f4-4d9b-b71b-795ed22e9815",
+            "fieldPath": "/attributes/@f013",
+            "rank": "zzz"
+          },
+          "23f08a8d-b42b-4769-bb5f-1a2dd273b09e": {
+            "id": "23f08a8d-b42b-4769-bb5f-1a2dd273b09e",
+            "fieldPath": "/attributes/@f014",
+            "rank": "zzzV"
+          },
+          "e3f7d5b8-379b-4507-a554-c78645669a1c": {
+            "id": "e3f7d5b8-379b-4507-a554-c78645669a1c",
+            "fieldPath": "/attributes/@f015",
+            "rank": "zzzk"
+          },
+          "43a7b7a3-866e-4da4-8428-3689ef3d22f8": {
+            "id": "43a7b7a3-866e-4da4-8428-3689ef3d22f8",
+            "fieldPath": "/attributes/@f016",
+            "rank": "zzzs"
+          },
+          "55f23354-d974-4b8d-a6a2-2388d19af003": {
+            "id": "55f23354-d974-4b8d-a6a2-2388d19af003",
+            "fieldPath": "/attributes/@f017",
+            "rank": "zzzw"
+          },
+          "49d80fe6-1552-4ea1-8a27-e9ea10009336": {
+            "id": "49d80fe6-1552-4ea1-8a27-e9ea10009336",
+            "fieldPath": "/attributes/@f018",
+            "rank": "zzzy"
+          },
+          "3ead069f-c171-4cd2-9132-b1a944be6ca3": {
+            "id": "3ead069f-c171-4cd2-9132-b1a944be6ca3",
+            "fieldPath": "/attributes/@f019",
+            "rank": "zzzz"
+          },
+          "948f04ad-2813-4370-bb7f-ede3b8d69eeb": {
+            "id": "948f04ad-2813-4370-bb7f-ede3b8d69eeb",
+            "fieldPath": "/attributes/@f020",
+            "rank": "zzzzV"
+          },
+          "f04e1648-a318-43bf-a128-679829e5879e": {
+            "id": "f04e1648-a318-43bf-a128-679829e5879e",
+            "fieldPath": "/attributes/@f021",
+            "rank": "zzzzk"
+          },
+          "6bf791ca-d84d-4e16-a21e-bec0a4fd9657": {
+            "id": "6bf791ca-d84d-4e16-a21e-bec0a4fd9657",
+            "fieldPath": "/attributes/@f022",
+            "rank": "zzzzs"
+          },
+          "e4a5ca3f-650c-4d02-96a1-8d71a6d9c97b": {
+            "id": "e4a5ca3f-650c-4d02-96a1-8d71a6d9c97b",
+            "fieldPath": "/attributes/@f023",
+            "rank": "zzzzw"
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 320
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "3146b8a2-d463-4291-af21-4ce71670cc26": {
+            "id": "3146b8a2-d463-4291-af21-4ce71670cc26",
+            "fieldPath": "/attributes/@f001",
+            "rank": "z",
+            "hidden": false
+          },
+          "8c35f857-c2a3-4111-95b0-1d27f629d301": {
+            "id": "8c35f857-c2a3-4111-95b0-1d27f629d301",
+            "fieldPath": "/attributes/@f002",
+            "rank": "zV",
+            "hidden": false
+          },
+          "32717f43-38e0-489a-8619-d10c9b8146ee": {
+            "id": "32717f43-38e0-489a-8619-d10c9b8146ee",
+            "fieldPath": "/attributes/@f003",
+            "rank": "zk",
+            "hidden": false
+          },
+          "811b43e0-fd18-4e4a-9df3-f2027ccb2b52": {
+            "id": "811b43e0-fd18-4e4a-9df3-f2027ccb2b52",
+            "fieldPath": "/attributes/@f004",
+            "rank": "zs",
+            "width": 312,
+            "hidden": false
+          },
+          "c093163f-9067-42b0-9b93-c5f4830ade41": {
+            "id": "c093163f-9067-42b0-9b93-c5f4830ade41",
+            "fieldPath": "/attributes/@f005",
+            "rank": "zw",
+            "hidden": false
+          },
+          "1847feda-13ac-4b6f-8fb2-9ee89611b633": {
+            "id": "1847feda-13ac-4b6f-8fb2-9ee89611b633",
+            "fieldPath": "/attributes/@f006",
+            "rank": "zy",
+            "hidden": false
+          },
+          "e8faa8c3-8b79-4bee-aa70-26bbbf6a4dd1": {
+            "id": "e8faa8c3-8b79-4bee-aa70-26bbbf6a4dd1",
+            "fieldPath": "/attributes/@f007",
+            "rank": "zz",
+            "hidden": false
+          },
+          "d2441304-cea1-4315-9471-6d24734f764a": {
+            "id": "d2441304-cea1-4315-9471-6d24734f764a",
+            "fieldPath": "/attributes/@f008",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "31ad8dc1-7df5-448d-affa-8e2a7ec9d0de": {
+            "id": "31ad8dc1-7df5-448d-affa-8e2a7ec9d0de",
+            "fieldPath": "/attributes/@f009",
+            "rank": "zzk",
+            "hidden": false
+          },
+          "5fd8eb21-3e3c-4004-ad02-2ab13d34ac9e": {
+            "id": "5fd8eb21-3e3c-4004-ad02-2ab13d34ac9e",
+            "fieldPath": "/attributes/@f010",
+            "rank": "zzs",
+            "hidden": false
+          },
+          "76b86b7d-fccf-45be-8782-88b64bbff7bf": {
+            "id": "76b86b7d-fccf-45be-8782-88b64bbff7bf",
+            "fieldPath": "/attributes/@f011",
+            "rank": "zzw",
+            "hidden": false
+          },
+          "b787a908-0bd9-454e-8ba2-670cbb51ad92": {
+            "id": "b787a908-0bd9-454e-8ba2-670cbb51ad92",
+            "fieldPath": "/attributes/@f012",
+            "rank": "zzy",
+            "hidden": false
+          },
+          "cda5b5f7-ea68-4ba8-93be-4523057390c8": {
+            "id": "cda5b5f7-ea68-4ba8-93be-4523057390c8",
+            "fieldPath": "/attributes/@f013",
+            "rank": "zzz",
+            "hidden": false
+          },
+          "b5eb2e0c-78ca-429e-b4cd-70c4125f3932": {
+            "id": "b5eb2e0c-78ca-429e-b4cd-70c4125f3932",
+            "fieldPath": "/attributes/@f014",
+            "rank": "zzzV",
+            "hidden": false
+          },
+          "499844aa-e369-4a96-b848-a09da5596806": {
+            "id": "499844aa-e369-4a96-b848-a09da5596806",
+            "fieldPath": "/attributes/@f015",
+            "rank": "zzzk",
+            "hidden": false
+          },
+          "adf09b94-eadb-4fcb-97f9-75aae534cf25": {
+            "id": "adf09b94-eadb-4fcb-97f9-75aae534cf25",
+            "fieldPath": "/attributes/@f016",
+            "rank": "zzzs",
+            "hidden": false
+          },
+          "162b4513-86b6-468c-a4fc-9ed0c0668893": {
+            "id": "162b4513-86b6-468c-a4fc-9ed0c0668893",
+            "fieldPath": "/attributes/@f017",
+            "rank": "zzzw",
+            "hidden": false
+          },
+          "06e377dc-192f-45ff-98c6-0eb5e3d676a6": {
+            "id": "06e377dc-192f-45ff-98c6-0eb5e3d676a6",
+            "fieldPath": "/attributes/@f018",
+            "rank": "zzzy",
+            "hidden": false
+          },
+          "4866e802-f612-400c-b6c5-b6a0cabf6322": {
+            "id": "4866e802-f612-400c-b6c5-b6a0cabf6322",
+            "fieldPath": "/attributes/@f019",
+            "rank": "zzzz",
+            "hidden": false
+          },
+          "ffea5908-9791-440b-b3f3-51dd7b39f251": {
+            "id": "ffea5908-9791-440b-b3f3-51dd7b39f251",
+            "fieldPath": "/attributes/@f020",
+            "rank": "zzzzV",
+            "hidden": false
+          },
+          "7ceffc44-1ea2-40fd-b58e-e5ade4016f6a": {
+            "id": "7ceffc44-1ea2-40fd-b58e-e5ade4016f6a",
+            "fieldPath": "/attributes/@f021",
+            "rank": "zzzzk",
+            "hidden": false
+          },
+          "3081d62b-778b-4743-a5bb-18d9bf057b3e": {
+            "id": "3081d62b-778b-4743-a5bb-18d9bf057b3e",
+            "fieldPath": "/attributes/@f022",
+            "rank": "zzzzs",
+            "hidden": false
+          },
+          "e36def8b-7e30-49a0-a368-b2c6a44d3765": {
+            "id": "e36def8b-7e30-49a0-a368-b2c6a44d3765",
+            "fieldPath": "/attributes/@f023",
+            "rank": "zzzzw",
+            "hidden": false
+          }
+        }
+      },
+      "actionsheet": {
+        "id": "actionsheet",
+        "type": "actionsheet",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "d0c383f8-b47b-4447-93bc-0567cba65f0a": {
+            "id": "d0c383f8-b47b-4447-93bc-0567cba65f0a",
+            "fieldPath": "/attributes/@f001",
+            "rank": "z"
+          },
+          "cb289795-b0be-4f9e-a2c6-8cc3f29946f4": {
+            "id": "cb289795-b0be-4f9e-a2c6-8cc3f29946f4",
+            "fieldPath": "/attributes/@f002",
+            "rank": "zV"
+          },
+          "7f9e00d5-fbe5-477b-af48-f8472b2b281a": {
+            "id": "7f9e00d5-fbe5-477b-af48-f8472b2b281a",
+            "fieldPath": "/attributes/@f003",
+            "rank": "zk"
+          },
+          "a490d264-1d8c-47a0-a61a-fd2870e6711d": {
+            "id": "a490d264-1d8c-47a0-a61a-fd2870e6711d",
+            "fieldPath": "/attributes/@f004",
+            "rank": "zs"
+          },
+          "51ecf4aa-299a-4244-b323-e8437904f972": {
+            "id": "51ecf4aa-299a-4244-b323-e8437904f972",
+            "fieldPath": "/attributes/@f005",
+            "rank": "zw"
+          },
+          "79184f0a-0dec-48c3-bbf7-401e7f672d98": {
+            "id": "79184f0a-0dec-48c3-bbf7-401e7f672d98",
+            "fieldPath": "/attributes/@f006",
+            "rank": "zy"
+          },
+          "241d36ae-5c4a-4509-9cb3-1c00f1f850b3": {
+            "id": "241d36ae-5c4a-4509-9cb3-1c00f1f850b3",
+            "fieldPath": "/attributes/@f007",
+            "rank": "zz"
+          },
+          "ca5dc387-fc6c-4176-90da-92b2ef98d2eb": {
+            "id": "ca5dc387-fc6c-4176-90da-92b2ef98d2eb",
+            "fieldPath": "/attributes/@f008",
+            "rank": "zzV"
+          },
+          "21c7955d-8ac2-45e6-88b3-dfcdfcf7884e": {
+            "id": "21c7955d-8ac2-45e6-88b3-dfcdfcf7884e",
+            "fieldPath": "/attributes/@f009",
+            "rank": "zzk"
+          },
+          "6554600f-62ba-451c-95bb-c910f0464d32": {
+            "id": "6554600f-62ba-451c-95bb-c910f0464d32",
+            "fieldPath": "/attributes/@f010",
+            "rank": "zzs"
+          },
+          "c5ea4d28-b92d-4cc8-9b94-1513e61d428c": {
+            "id": "c5ea4d28-b92d-4cc8-9b94-1513e61d428c",
+            "fieldPath": "/attributes/@f011",
+            "rank": "zzw"
+          },
+          "a653e241-5d13-49d2-99da-6322fe71062b": {
+            "id": "a653e241-5d13-49d2-99da-6322fe71062b",
+            "fieldPath": "/attributes/@f012",
+            "rank": "zzy"
+          },
+          "c44994d5-339a-4960-b327-77fe15e75336": {
+            "id": "c44994d5-339a-4960-b327-77fe15e75336",
+            "fieldPath": "/attributes/@f013",
+            "rank": "zzz"
+          },
+          "70b93470-562a-407e-a659-871d9ecefeec": {
+            "id": "70b93470-562a-407e-a659-871d9ecefeec",
+            "fieldPath": "/attributes/@f014",
+            "rank": "zzzV"
+          },
+          "649a9fbf-f959-4d4a-b639-e67844074a68": {
+            "id": "649a9fbf-f959-4d4a-b639-e67844074a68",
+            "fieldPath": "/attributes/@f015",
+            "rank": "zzzk"
+          },
+          "2446c705-01c7-4c32-923b-7d4af3177998": {
+            "id": "2446c705-01c7-4c32-923b-7d4af3177998",
+            "fieldPath": "/attributes/@f016",
+            "rank": "zzzs"
+          },
+          "acb0cd8c-b3f1-4c65-b9b3-5b951e63de0f": {
+            "id": "acb0cd8c-b3f1-4c65-b9b3-5b951e63de0f",
+            "fieldPath": "/attributes/@f017",
+            "rank": "zzzw"
+          },
+          "f4c45ec5-49b4-4ddd-9152-40b7366f68e4": {
+            "id": "f4c45ec5-49b4-4ddd-9152-40b7366f68e4",
+            "fieldPath": "/attributes/@f018",
+            "rank": "zzzy"
+          },
+          "ef8d16f5-01de-4396-8f7b-3f6e12383762": {
+            "id": "ef8d16f5-01de-4396-8f7b-3f6e12383762",
+            "fieldPath": "/attributes/@f019",
+            "rank": "zzzz"
+          },
+          "480c5cc2-1b47-4d01-8397-fcfa1b8617e0": {
+            "id": "480c5cc2-1b47-4d01-8397-fcfa1b8617e0",
+            "fieldPath": "/attributes/@f020",
+            "rank": "zzzzV"
+          },
+          "a9edcfa6-646b-45f5-bcc0-e3840978b209": {
+            "id": "a9edcfa6-646b-45f5-bcc0-e3840978b209",
+            "fieldPath": "/attributes/@f021",
+            "rank": "zzzzk"
+          },
+          "ef461567-537d-411c-a193-be6ed7d3b80d": {
+            "id": "ef461567-537d-411c-a193-be6ed7d3b80d",
+            "fieldPath": "/attributes/@f022",
+            "rank": "zzzzs"
+          },
+          "d2276cd3-a9d4-43ac-8f58-3befed2f77cc": {
+            "id": "d2276cd3-a9d4-43ac-8f58-3befed2f77cc",
+            "fieldPath": "/attributes/@f023",
+            "rank": "zzzzw"
+          }
+        }
+      }
+    },
+    "fields": {
+      "@f020": {
+        "type": "string",
+        "displayName": "Email Body"
+      },
+      "@f010": {
+        "type": "Select",
+        "displayName": "Source",
+        "options": {
+          "src-ref": {
+            "id": "src-ref",
+            "name": "Referral",
+            "color": "#6366f1",
+            "rank": "0"
+          },
+          "src-web": {
+            "id": "src-web",
+            "name": "Website",
+            "color": "#3b82f6",
+            "rank": "1"
+          },
+          "src-li": {
+            "id": "src-li",
+            "name": "LinkedIn",
+            "color": "#0ea5e9",
+            "rank": "2"
+          },
+          "src-cold": {
+            "id": "src-cold",
+            "name": "Cold Outreach",
+            "color": "#f59e0b",
+            "rank": "3"
+          },
+          "src-event": {
+            "id": "src-event",
+            "name": "Event",
+            "color": "#10b981",
+            "rank": "4"
+          },
+          "src-ad": {
+            "id": "src-ad",
+            "name": "Paid Ad",
+            "color": "#8b5cf6",
+            "rank": "5"
+          },
+          "src-other": {
+            "id": "src-other",
+            "name": "Other",
+            "color": "#6b7280",
+            "rank": "6"
+          }
+        }
+      },
+      "@f021": {
+        "type": "number",
+        "displayName": "Email Score (1-10)",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@f011": {
+        "type": "Select",
+        "displayName": "Stage",
+        "options": {
+          "stg-new": {
+            "id": "stg-new",
+            "name": "New Lead",
+            "color": "#6b7280",
+            "rank": "0"
+          },
+          "stg-contact": {
+            "id": "stg-contact",
+            "name": "Contacted",
+            "color": "#3b82f6",
+            "rank": "1"
+          },
+          "stg-qual": {
+            "id": "stg-qual",
+            "name": "Qualified",
+            "color": "#f59e0b",
+            "rank": "2"
+          },
+          "stg-prop": {
+            "id": "stg-prop",
+            "name": "Proposal Sent",
+            "color": "#8b5cf6",
+            "rank": "3"
+          },
+          "stg-neg": {
+            "id": "stg-neg",
+            "name": "Negotiation",
+            "color": "#f97316",
+            "rank": "4"
+          },
+          "stg-won": {
+            "id": "stg-won",
+            "name": "Won",
+            "color": "#10b981",
+            "rank": "5"
+          },
+          "stg-lost": {
+            "id": "stg-lost",
+            "name": "Lost",
+            "color": "#ef4444",
+            "rank": "6"
+          }
+        }
+      },
+      "@f022": {
+        "type": "number",
+        "displayName": "Reply Rate (%)",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "unit",
+          "config": {
+            "type": "standard",
+            "unit": "percent"
+          }
+        }
+      },
+      "@f001": {
+        "type": "string",
+        "displayName": "Company"
+      },
+      "@f012": {
+        "type": "number",
+        "displayName": "Score",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@f023": {
+        "type": "string",
+        "displayName": "Notes"
+      },
+      "@f002": {
+        "type": "string",
+        "displayName": "Industry / Sector"
+      },
+      "@f013": {
+        "type": "string",
+        "displayName": "Owner"
+      },
+      "@f003": {
+        "type": "string",
+        "displayName": "Website URL"
+      },
+      "@f014": {
+        "type": "string",
+        "displayName": "Next Step"
+      },
+      "@f004": {
+        "type": "string",
+        "displayName": "Email"
+      },
+      "@f015": {
+        "type": "DateTime",
+        "title": "Last Touch"
+      },
+      "@f005": {
+        "type": "string",
+        "displayName": "Phone"
+      },
+      "@f016": {
+        "type": "string",
+        "displayName": "Business Intelligence"
+      },
+      "@f006": {
+        "type": "string",
+        "displayName": "LinkedIn URL"
+      },
+      "@f017": {
+        "type": "string",
+        "displayName": "Interaction History"
+      },
+      "@f007": {
+        "type": "string",
+        "displayName": "Facebook URL"
+      },
+      "@f018": {
+        "type": "string",
+        "displayName": "Subject Line"
+      },
+      "@f008": {
+        "type": "string",
+        "displayName": "Instagram Handle"
+      },
+      "@f019": {
+        "type": "number",
+        "displayName": "Subject Score (1-10)",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@f009": {
+        "type": "string",
+        "displayName": "Twitter / X Handle"
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "📗"
+    }
+  }
+}
